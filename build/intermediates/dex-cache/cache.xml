@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ryan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Ryan\AndroidstudioProjects\RealityCheck\app\build\intermediates\pre-dexed\release\support-v4-18.0.0-004b6da1af514b3f5e6e7bbc3d1e5678e5a7a4b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\AndroidstudioProjects\RealityCheck\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="C:\Users\Ryan\AndroidstudioProjects\RealityCheck\app\build\intermediates\pre-dexed\release\classes-6b1b4726310fb9b8595dd42d207a1c94df3bf756.jar" />
+    </item>
+
+</items>

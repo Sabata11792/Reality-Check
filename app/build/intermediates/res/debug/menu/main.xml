@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/btnSettings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings">    </item>
+    <item android:id="@+id/btnRefresh"
+         android:title="@string/str_m_refresh"></item>
+    <item android:id="@+id/btnChkMisses"
+        android:title="Fakeouts?"
+
+        ></item>
+
+
+
+</menu>
+<!-- From: file:/C:/Users/Ryan/AndroidstudioProjects/RealityCheck/app/src/main/res/menu/main.xml -->

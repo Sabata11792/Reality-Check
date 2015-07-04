@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reality Check</string>
+    <string name="action_settings">Customize</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_date">Date</string>
+    <string name="str_date_sum_info">Daily number</string>
+    <string name="str_date_sum">11792</string>
+    <string name="str_random_number_1">92</string>
+    <string name="str_random_number_2">42</string>
+    <string name="str_random_sum">134</string>
+    <string name="str_random_sum_day">11926</string>
+    <string name="str_user_text_1">Are you awake?</string>
+    <string name="str_user_text_2">&quot;You're Dreaming...&quot;</string>
+    <string name="str_random_number_1_info">Random number</string>
+    <string name="str_random_number_2_info">Confirm random number</string>
+    <string name="str_random_sum_info">Sum of random numbers</string>
+    <string name="str_random_sum_day_info">Random numbers + Daily number</string>
+    
+    <string name="str_refresh">&quot;I'm not sure...&quot;</string>
+    <string name="str_close">I am awake.</string>
+   
+	<string name="str_sure">Are you sure?</string>
+    <string name="str_m_refresh">Refresh</string>
+    
+
+</resources>
